@@ -12,7 +12,6 @@ This is a traditional Hello World program. I created it for the purpose of ensur
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
 * [Screenshot](screenshot.jpg)
 <!-- put an '!' if you want to the image to be visible and not a link -->
