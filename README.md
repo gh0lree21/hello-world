@@ -2,7 +2,7 @@
 
 This is a traditional Hello World program. I created it for the purpose of ensuring the correct configuration of git and github repository. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/xvk57YwSStE)
 
 # Development Environment
 
